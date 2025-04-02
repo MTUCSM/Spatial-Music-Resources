@@ -1,0 +1,90 @@
+{
+  "Name": "Octophonic Decoder",
+  "Description": "This configuration file was created with the IEM AllRADecoder v0.9.2 plug-in. 25 Mar 2025 6:04:43pm",
+  "LoudspeakerLayout": {
+    "Name": "Clockwise octophonic loudspeaker layout",
+    "Description": "Octophonic",
+    "Loudspeakers": [
+      {
+        "Azimuth": 22.5,
+        "Elevation": 0.0,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 1,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -22.5,
+        "Elevation": 0.0,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 2,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -67.5,
+        "Elevation": 0.0,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 3,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -112.5,
+        "Elevation": 0.0,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 4,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -157.5,
+        "Elevation": 0.0,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 5,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 157.5,
+        "Elevation": 0.0,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 6,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 112.5,
+        "Elevation": 0.0,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 7,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 67.5,
+        "Elevation": 0.0,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 8,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 180.0,
+        "Elevation": -90.0,
+        "Radius": 1.0,
+        "IsImaginary": true,
+        "Channel": 9,
+        "Gain": 0.0
+      },
+      {
+        "Azimuth": 180.0,
+        "Elevation": 90.0,
+        "Radius": 1.0,
+        "IsImaginary": true,
+        "Channel": 10,
+        "Gain": 0.0
+      }
+    ]
+  }
+}
